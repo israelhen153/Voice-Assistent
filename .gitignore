@@ -1,0 +1,6 @@
+configurations/
+ignore/
+./TASKS
+EmotionSense/
+guiConfigurations/ui_Files/vulScanner
+.git_old

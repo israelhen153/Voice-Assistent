@@ -1,0 +1,23 @@
+python_whl_pkg:
+    wolframalpha
+    pyttsx3
+    PyICU
+    Morfessor
+    PyCLD2
+    numpy
+    polyglot
+    gTTS
+    speechRecognition
+    selenium
+    puAudio
+    python3-scipy
+    opencv-python
+    
+Linux_Libs:
+    espeak/libespeak >= 1.48
+    ffmpeg >= 4.2
+    portaudio-devel
+    alsa-lib-devel
+    portaudio
+    python-devel
+    icu.x86_64
